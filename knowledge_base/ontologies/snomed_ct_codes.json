@@ -1,0 +1,56 @@
+{
+  "44054006": {
+    "code": "44054006",
+    "description": "Type 2 diabetes mellitus",
+    "conceptId": "44054006",
+    "fullySpecifiedName": "Type 2 diabetes mellitus (disorder)",
+    "synonyms": [
+      "Non-insulin dependent diabetes mellitus",
+      "NIDDM",
+      "Type II diabetes"
+    ]
+  },
+  "38341003": {
+    "code": "38341003",
+    "description": "Hypertensive disorder, systemic arterial",
+    "conceptId": "38341003",
+    "fullySpecifiedName": "Hypertensive disorder, systemic arterial (disorder)",
+    "synonyms": [
+      "High blood pressure",
+      "Hypertension",
+      "Systemic hypertension"
+    ]
+  },
+  "233604007": {
+    "code": "233604007",
+    "description": "Pneumonia",
+    "conceptId": "233604007",
+    "fullySpecifiedName": "Pneumonia (disorder)",
+    "synonyms": [
+      "Lung infection",
+      "Pulmonary inflammation"
+    ]
+  },
+  "279039007": {
+    "code": "279039007",
+    "description": "Low back pain",
+    "conceptId": "279039007",
+    "fullySpecifiedName": "Low back pain (finding)",
+    "synonyms": [
+      "Lumbago",
+      "Backache",
+      "Lumbar pain"
+    ]
+  },
+  "422587007": {
+    "code": "422587007",
+    "description": "Nausea and vomiting",
+    "conceptId": "422587007",
+    "fullySpecifiedName": "Nausea and vomiting (finding)",
+    "synonyms": [
+      "Sick to stomach",
+      "Feeling like throwing up",
+      "Upset stomach"
+    ]
+  }
+}

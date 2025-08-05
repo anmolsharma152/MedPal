@@ -1,0 +1,32 @@
+{
+  "E11.9": {
+    "code": "E11.9",
+    "description": "Type 2 diabetes mellitus without complications",
+    "category": "Endocrine, nutritional and metabolic diseases",
+    "synonyms": ["Type II diabetes", "Non-insulin dependent diabetes"]
+  },
+  "I10": {
+    "code": "I10",
+    "description": "Essential (primary) hypertension",
+    "category": "Diseases of the circulatory system",
+    "synonyms": ["High blood pressure", "Hypertension"]
+  },
+  "J18.9": {
+    "code": "J18.9",
+    "description": "Pneumonia, unspecified",
+    "category": "Diseases of the respiratory system",
+    "synonyms": ["Lung infection"]
+  },
+  "M54.5": {
+    "code": "M54.5",
+    "description": "Low back pain",
+    "category": "Diseases of the musculoskeletal system",
+    "synonyms": ["Lumbago"]
+  },
+  "R11.2": {
+    "code": "R11.2",
+    "description": "Nausea with vomiting, unspecified",
+    "category": "Symptoms and signs",
+    "synonyms": ["Sick to stomach"]
+  }
+}
