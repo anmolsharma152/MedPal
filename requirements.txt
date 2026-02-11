@@ -1,0 +1,32 @@
+# --- Core Backend ---
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+requests
+
+# --- Frontend ---
+streamlit
+
+# --- AI & Math (Risk Engine) ---
+torch
+numpy
+scikit-learn
+xgboost
+pandas
+joblib
+
+# --- GenAI & RAG ---
+groq
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers
+huggingface-hub
+
+# --- OCR & Image Processing ---
+pdf2image
+pytesseract
+Pillow
