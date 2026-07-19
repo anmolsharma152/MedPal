@@ -2,6 +2,15 @@
 
 # 🏥 MedPal AI (V5)
 
+
+## Docs
+
+| Doc | Purpose |
+|-----|---------|
+| **[docs/STATUS.md](./docs/STATUS.md)** | Handoff status |
+| [docs/setup.md](./docs/setup.md) | Setup |
+| [AGENTS.md](./AGENTS.md) | Agent guidance |
+
 **The First Neuro-Symbolic Clinical Decision Support System with Dual-RAG**
 
 *Bridging the gap between Mathematical Precision and Medical Reasoning.*
